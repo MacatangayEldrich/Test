@@ -1,1 +1,6 @@
 #!/bin/bash
+# This is a sample bash script
+$echo "SAMPLE"
+[user@server ~] #!/bin/bash
+[user@server ~] # This is a sample bash script
+[user@server ~] $
